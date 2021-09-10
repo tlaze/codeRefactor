@@ -2,11 +2,20 @@
 
 Description:
 
-Horiseon Inc. requested service to refactor code on their Digital Marketing Website
+Horiseon Inc. requested service to refactor code on their Digital Marketing Website.
 
 Updates made to the structure of the code including:
 
-Addition of semantic elements, comments, and reduction in duplicate code.
+Logical strucuring and positioning
+
+Addition of semantic elements
+
+Detailed Comments
+
+Reduction in duplicate code
+
+Alt Attributes to images
+
 
 Screenshots:
 
