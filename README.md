@@ -2,15 +2,7 @@
 
 Description:
 
--Horiseon requested services to refactor the code of their website.
--The code structure is now cleaner to look at has semantic elements for accessibility
+Horiseon INC. requested services to refactor code on their Digital Marketing website.
+Updates made to the structure of the code; including addition of semantic elements, comments, and reduction in duplicate code.
 
-Screenshots
 
-BEFORE
-
-![Before](/Users/tom/Desktop/codeRefactor/README/Before.png)
-
-AFTER
-
-![After](/Users/tom/Desktop/codeRefactor/README/After.png)
