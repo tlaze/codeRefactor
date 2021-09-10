@@ -19,11 +19,11 @@ h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* Changes the color of the letters "SEO" of the company in the header */
 .seo {
     color: #d9dcd6;
 }
-
+/* Designs the navigation bar */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,7 +32,7 @@ nav {
     font-size: 20px;
     
 }
-
+/* Hides bullets of the list in the header */
 ul{
     list-style-type: none;
 }
@@ -54,7 +54,7 @@ figcaption{
 p {
     font-size: 16px;
 }
-
+/* Design for the large image of the meeting*/
 .mainImage {
     height: 800px;
     width: 100%;
